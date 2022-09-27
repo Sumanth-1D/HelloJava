@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/hello-java",
+        "create path (nt:unstructured) /content/dam/hello-java/jcr:content",
+        "set properties on /content/dam/hello-java/jcr:content\n  set cq:conf{String} to /conf/hello-java\n  set jcr:title{String} to \"Hello Java\"\nend"
+    ]
+}

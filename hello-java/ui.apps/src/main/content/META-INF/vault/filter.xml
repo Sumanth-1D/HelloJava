@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/hello-java/clientlibs"/>
+    <filter root="/apps/hello-java/components"/>
+    <filter root="/apps/hello-java/i18n"/>
+</workspaceFilter>
